@@ -71,10 +71,5 @@ secure-by-default-aws/
 
 ---
 
-**Author**: Your Name
-**License**: MIT (optional)
-
-```
-
-Let me know if you'd like this formatted for GitHub Pages, with badges, or expanded with usage examples.
+**Author**: Owen Sweet
 ```
